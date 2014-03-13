@@ -1,6 +1,6 @@
 <?php
 
-namespace Zoop\Store\DataModel;
+namespace Zoop\SkeletonModule\DataModel;
 
 //Annotation imports
 use Doctrine\ODM\MongoDB\Mapping\Annotations as ODM;
@@ -12,7 +12,7 @@ use Zoop\Shard\Annotation\Annotations as Shard;
  *     @Shard\Permission\Basic(roles="*", allow="read")
  * })
  */
-class Design
+class Skeleton
 {
 
 }
