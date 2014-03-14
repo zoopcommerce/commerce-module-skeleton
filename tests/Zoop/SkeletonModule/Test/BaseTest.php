@@ -1,6 +1,6 @@
 <?php
 
-namespace Zoop\Common\Test;
+namespace Zoop\SkeletonModule\Test;
 
 use Zend\Test\PHPUnit\Controller\AbstractHttpControllerTestCase;
 use Doctrine\ODM\MongoDB\DocumentManager;
