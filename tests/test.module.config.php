@@ -22,8 +22,8 @@ return [
     ],
     'zoop' => [
         'aws' => [
-            'key' => 'AKIAJE2QFIBMYF5V5MUQ',
-            'secret' => '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',
+            'key' => '',
+            'secret' => '',
             's3' => [
                 'buckets' => [
                     'test' => 'zoop-web-assets-test',
